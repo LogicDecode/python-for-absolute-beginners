@@ -15,7 +15,7 @@ print(name)
 myname = "RHYTHM BHIWANI"
 print(myname)
 
-#RUles for Identifiers
+#Rules for Identifiers
 # It should start with A-Z a-z _
 #Correct Names
 rhythm
