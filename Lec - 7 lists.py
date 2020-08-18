@@ -24,7 +24,7 @@ print(mylist[::2])
 # Length
 print(len(mylist))
 
-# List Concatination
+# List concatenation
 a = ['a', 'b', 'c']
 b = [1, 2, 3]
 print(a + b)
