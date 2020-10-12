@@ -13,7 +13,7 @@ print(string[-1], string[-2]) # Reverse Indexing
 print(string[:]) # Print complete string
 print(string[2:]) # Start with index 2 till end
 print(string[:2]) # From starting till index 1
-print(string[0:10:2]) # From index 0 to 9 with gap of 2
+print(string[0:10:2]) # Moves from index 0 to 9 and prints alternative charachters
 
 
 # Length of string
